@@ -3,11 +3,11 @@
 		{
 			"titulo":"Qual o seu comportamento em relação aos seus investimentos?",
 			"perguntas":["Preservar meu dinheiro sem correr riscos","Ganhar mais dinheiro assumindo riscos moderados","Ganhar mais dinheiro assumindo riscos agressivos"]
-		}
+		},
 		{
 			"titulo":"Por quanto tempo você deseja manter os seus investimentos?",
 			"perguntas":["Até um ano","De 1 a 3 anos","Mais de 3 anos"]
-		}
+		},
 		{
 			"titulo":"Quantos % desses investimentos você pode precisar em um ano?",
 			"perguntas":["Acima de 75%","De 26 a 74%","Até 25%"]
