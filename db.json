@@ -1,0 +1,35 @@
+{
+	"checkBoxQuestions":[
+		{
+			"titulo":"Qual o seu comportamento em relação aos seus investimentos?",
+			"perguntas":["Preservar meu dinheiro sem correr riscos","Ganhar mais dinheiro assumindo riscos moderados","Ganhar mais dinheiro assumindo riscos agressivos"]
+		}
+		{
+			"titulo":"Por quanto tempo você deseja manter os seus investimentos?",
+			"perguntas":["Até um ano","De 1 a 3 anos","Mais de 3 anos"]
+		}
+		{
+			"titulo":"Quantos % desses investimentos você pode precisar em um ano?",
+			"perguntas":["Acima de 75%","De 26 a 74%","Até 25%"]
+		}
+	],
+	"DropdownQuestions":[
+		{
+			"titulo":"Titulos de renda fixa ou tesouro direto",
+			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+		},
+		{
+			"titulo":"Fundos de investimento",
+			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+		},
+		{
+			"titulo":"Açoes a vista",
+			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+		},
+		{
+			"titulo":"Aluguel de Ações, termos, opções e futuros",
+			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+		},
+
+	]
+}
