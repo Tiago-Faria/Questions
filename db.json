@@ -3,17 +3,23 @@
 		{
 			"id" : 1,
 			"titulo":"Qual o seu comportamento em relação aos seus investimentos?",
-			"alternativas":["Preservar meu dinheiro sem correr riscos","Ganhar mais dinheiro assumindo riscos moderados","Ganhar mais dinheiro assumindo riscos agressivos"]
+			"alternativas":[{"texto":"Preservar meu dinheiro sem correr riscos","id":"1"},
+					{"texto":"Ganhar mais dinheiro assumindo riscos moderados","id":"2"},
+					{"texto":"Ganhar mais dinheiro assumindo riscos agressivos","id":"3"}]
 		},
 		{
 			"id" : 2,
 			"titulo":"Por quanto tempo você deseja manter os seus investimentos?",
-			"alternativas":["Até um ano","De 1 a 3 anos","Mais de 3 anos"]
+			"alternativas":[{"texto":"Até um ano","id":"1"},
+					{"texto":"De 1 a 3 anos","id":"2"},
+					{"texto":"Mais de 3 anos","id":"3"}]
 		},
 		{
 			"id" : 3,
 			"titulo":"Quantos % desses investimentos você pode precisar em um ano?",
-			"alternativas":["Acima de 75%","De 26 a 74%","Até 25%"]
+			"alternativas":[{"texto":"Acima de 75%","id":"1"},
+					{"texto":"De 26 a 74%","id":"1"},
+					{"texto":"Até 25%","id":"1"}]
 		}
 	],
 	"DropdownQuestions":[
