@@ -25,23 +25,19 @@
 	"DropdownQuestions":[
 		{
 			"id" : 1,
-			"titulo":"Titulos de renda fixa ou tesouro direto",
-			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+			"opcao":"Nunca operei"
 		},
 		{
 			"id" : 2,
-			"titulo":"Fundos de investimento",
-			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+			"opcao":"Opero pouco e não tenho familiaridade"
 		},
 		{
 			"id" : 3,
-			"titulo":"Açoes a vista",
-			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+			"opcao":"Opero eventualmente e conheço os riscos associados"
 		},
 		{
 			"id" : 4,
-			"titulo":"Aluguel de Ações, termos, opções e futuros",
-			"opcoes":["Nunca operei","Opero pouco e não tenho familiaridade","Opero eventualmente e conheço os riscos associados","Opero frequentemente e conheço os riscos associados"]
+			"opcao":"Opero frequentemente e conheço os riscos associados"
 		}
 
 	]
